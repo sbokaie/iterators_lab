@@ -1,0 +1,6 @@
+map - this higher order function is like a transform, and can be used to substitute values with this result of calling the parameters of the function on it.  
+
+filter - this higher order function will take a list of values and return a boolean (depending on what you declare as true/false).
+
+reduce - takes a list of values and reduces them into a single value.
+
